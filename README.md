@@ -1,4 +1,4 @@
-<img sec="imgs/cover.jpeg" alt="Cover image for README.md" />
+<img src="imgs/cover.jpeg" alt="Cover image for README.md" align="center"/>
 ## Hi there 👋
 
 <!--
